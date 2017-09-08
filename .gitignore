@@ -3,3 +3,6 @@ nb-configuration.xml
 nbactions.xml
 *~
 deploy-*.sh
+/.classpath
+/.project
+/.settings/
